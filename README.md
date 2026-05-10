@@ -17,4 +17,5 @@
 **Periodo:** Abril - Agosto
 ### Bienvenido a mi portafolio digital a continuación podras encontrar mis trabajos y proyectos de mi primera unidad.
 
-Para ver todo el contenido, haz clic aquí: 📁
+Para ver todo el contenido, haz clic aquí: [📁](#índice)
+
