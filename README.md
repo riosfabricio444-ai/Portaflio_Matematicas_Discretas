@@ -6,6 +6,12 @@
 # Universidad Nacional de Loja
 # Facultad de la energía, las industrias y los recursos naturales no renovables
 ## Carrera de Computación 
+| **INFORMACIÓN:** | DETALLES |
+| **ESTUDIANTE:** | EDGAR FABRICIO RIOS CUENCA |
+| **ASIGNATURA:** | MATEMATICAS DISCRETAS |
+| **DOCENTE:** | MARIO ENRIQUE CUEVA HURTADO|
+| **CICLO:** | 1A|
+| **PERIODO:** | ABRIL - AGOSTO |
 **Asignatura:** Matemáticas discretas
 
 **Estudiante:** Edgar Fabricio Rios Cuenca
@@ -19,4 +25,5 @@
 
 ### [Clic aqui para ingresar📂](SEMESTRE.md)
 
+| UNIDAD | estado |
 
