@@ -1,8 +1,6 @@
 <div align="center">
 
 # [UNIDAD 1](SEMESTRE.md)
-
-## Contenidos de la unidad-1
 </div>
 
 ## Indice
