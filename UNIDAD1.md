@@ -135,6 +135,8 @@ La lógica es el pilar fundamental de la Ingeniería en Computación, ya que per
 
 -	Hardware: En la arquitectura de computadores, la lógica se traduce físicamente en compuertas (AND, OR, NOT), que son los componentes básicos para el procesamiento de datos.
 
+#### [Para regresar clic aquí📂](SEMESTRE.md)
+
 
 
 
