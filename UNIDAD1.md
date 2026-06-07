@@ -2,8 +2,6 @@
 
 # [UNIDAD 1](SEMESTRE.md)
 
-<div align="center">
-
 ## Contenidos de la unidad-1
 </div>
 
