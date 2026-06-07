@@ -4,26 +4,24 @@
 <img width="603" height="182" alt="image" src="https://github.com/user-attachments/assets/31e7a61e-c7ac-479c-bea2-6102a77d3d5c" />
 
 # Universidad Nacional de Loja
-# Facultad de la energía, las industrias y los recursos naturales no renovables
+## Facultad de la energía, las industrias y los recursos naturales no renovables
 ## Carrera de Computación 
-| **INFORMACIÓN:** | DETALLES |
-| **ESTUDIANTE:** | EDGAR FABRICIO RIOS CUENCA |
-| **ASIGNATURA:** | MATEMATICAS DISCRETAS |
-| **DOCENTE:** | MARIO ENRIQUE CUEVA HURTADO|
+
+<div align="center">
+
+<br>
+
+| **INFORMACIÓN** | DETALLES |
+| :---  | :---|
+| **ESTUDIANTE:** | Edgar Fabricio Rios Cuenca |
+| **ASIGNATURA:** | Matematicas Discretas |
+| **DOCENTE:** | Mario Enrique Cueva Hurtado|
 | **CICLO:** | 1A|
-| **PERIODO:** | ABRIL - AGOSTO |
-**Asignatura:** Matemáticas discretas
+| **PERIODO:** | Abril - Agosto 2026|
+<br>
+<br>
 
-**Estudiante:** Edgar Fabricio Rios Cuenca
 
-**Docennte:** Mario Enrique Cueva Hurtado
-
-**Ciclo:** 1A
-
-**Periodo:** Abril - Agosto
 ### Bienvenido a mi portafolio digital a continuación podras encontrar mis trabajos y proyectos de mi primera unidad.
 
 ### [Clic aqui para ingresar📂](SEMESTRE.md)
-
-| UNIDAD | estado |
-
