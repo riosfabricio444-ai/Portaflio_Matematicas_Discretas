@@ -1,6 +1,6 @@
 # [ACD](SEMESTRE.md)
 
-## Ejercicio 1;
+## Ejercicio 1:
 
 <img width="928" height="992" alt="image" src="https://github.com/user-attachments/assets/64d9f7b3-fd6b-42ad-aa63-83318f090cea" />
 
