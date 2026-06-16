@@ -1,12 +1,17 @@
 # [APE 2](UNIDAD2.md)
 
+## Paso 3:
 
 <img width="942" height="1202" alt="image" src="https://github.com/user-attachments/assets/190348e5-4147-4702-81c7-809a87a2ec57" />
+
+## Paso 4: 
 
 <img width="912" height="1026" alt="image" src="https://github.com/user-attachments/assets/0875def7-8b53-4c4d-813e-6ee17be3d727" />
 
 <img width="912" height="325" alt="image" src="https://github.com/user-attachments/assets/c0184a97-72ef-4ddd-8bfd-fce780bf514e" />
 
+ ## Paso 5: 
+ 
 <img width="903" height="1241" alt="image" src="https://github.com/user-attachments/assets/eeb0a5c0-a1e8-40ac-9a1d-54118ad09ec3" />
 
 <img width="855" height="598" alt="image" src="https://github.com/user-attachments/assets/7e5a83f9-52fb-4943-bb03-13a2927977ed" />
@@ -38,3 +43,5 @@
 <img width="811" height="763" alt="image" src="https://github.com/user-attachments/assets/a3898491-5e49-419d-98b4-c60770acd46c" />
 
 <img width="845" height="449" alt="image" src="https://github.com/user-attachments/assets/4cef3357-cd53-4a76-b7d8-203056624d0f" />
+
+
