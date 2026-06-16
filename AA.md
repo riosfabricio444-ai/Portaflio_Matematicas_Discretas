@@ -1,7 +1,7 @@
 
 # [AA](UNIDAD2.md)
 
-[AA](../AA.pdf)
+[AA](../../AA.pdf)
 
 <img width="1241" height="1755" alt="AA 2 - Matematicas Discreatas  _page-0001" src="https://github.com/user-attachments/assets/28119223-0633-48f6-9b30-2419bd6e30f4" />
 
