@@ -38,33 +38,32 @@
 
 <img width="856" height="608" alt="image" src="https://github.com/user-attachments/assets/f2939b46-5116-4b67-9b5c-67d7a3f272d6" />
 
+<img width="858" height="648" alt="image" src="https://github.com/user-attachments/assets/29d58d70-607d-47a5-a373-caff156a6a61" />
 ## Paso 6:
 
 ### Ejercicio 1:
 
-<img width="858" height="648" alt="image" src="https://github.com/user-attachments/assets/29d58d70-607d-47a5-a373-caff156a6a61" />
+<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/59cf96c5-c563-43e5-9a7b-94e46197d36e" />
 
 ### Ejercicio 2:
 
-<img width="902" height="450" alt="image" src="https://github.com/user-attachments/assets/59cf96c5-c563-43e5-9a7b-94e46197d36e" />
+<img width="902" height="682" alt="image" src="https://github.com/user-attachments/assets/b6887bfe-c2db-46e2-b0a0-1755f918671d" />
 
 ### Ejercicio 3:
 
-<img width="902" height="682" alt="image" src="https://github.com/user-attachments/assets/b6887bfe-c2db-46e2-b0a0-1755f918671d" />
-
-### Ejercicio 4:
-
 <img width="811" height="362" alt="image" src="https://github.com/user-attachments/assets/6d9fd043-d5db-4e80-85be-b6c11ec62621" />
-
-### Ejercicio 5:
 
 <img width="825" height="289" alt="image" src="https://github.com/user-attachments/assets/5ae8ed2b-843f-47ae-8e1c-297a36033a07" />
 
-## Paso 7:
+### Ejercicio 4:
 
 <img width="797" height="593" alt="image" src="https://github.com/user-attachments/assets/8f27e3e3-c671-46c0-842e-c1eab09e7ae0" />
 
+### Ejercicio 5:
+
 <img width="811" height="763" alt="image" src="https://github.com/user-attachments/assets/a3898491-5e49-419d-98b4-c60770acd46c" />
+
+## Paso 7:
 
 <img width="845" height="449" alt="image" src="https://github.com/user-attachments/assets/4cef3357-cd53-4a76-b7d8-203056624d0f" />
 
