@@ -34,6 +34,10 @@
 #### [CLIC PARA INGRESAR](AA.pdf)
 
 
-## ACD:
+## ACD Grupales:
+
+### [Clic para ingresar](ACD.pdf)
+
+## ACD Individuales:
 
 #### [CLIC PARA INGRESAR](ACD.md)
