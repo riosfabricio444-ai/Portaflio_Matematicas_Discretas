@@ -36,7 +36,7 @@
 
 ## ACD Grupales:
 
-### [Clic para ingresar](ACD.pdf)
+### [Clic para ingresar](ACD..pdf)
 
 ## ACD Individuales:
 
