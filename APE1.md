@@ -2,7 +2,7 @@
 
 ## APE 1 GRUPAL:
 
-### [Clic para ingresar](APE1.pdf)
+
 ## Ejercicio 1:
 
 <img width="880" height="1257" alt="image" src="https://github.com/user-attachments/assets/3e0f638e-6454-4335-8cee-8e9e09d38f2a" />
