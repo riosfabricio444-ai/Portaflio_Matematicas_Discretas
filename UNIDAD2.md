@@ -5,7 +5,11 @@
 
 # Ejercicios Resueltos:
 
-## APES:
+## APES Grupales:
+
+
+## APES Individuales:
+
 
 ### APE 1: Fase 1 y 2
 
