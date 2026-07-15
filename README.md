@@ -24,4 +24,6 @@
 
 ### Bienvenido a mi portafolio digital a continuación podras encontrar mis trabajos y proyectos de mi primera unidad.
 
+<img width="1224" height="864" alt="image" src="https://github.com/user-attachments/assets/034d0d6a-9b29-41cd-a6bf-ad10856ec251" />
+
 ### [Clic aqui para ingresar📂](SEMESTRE.md)
