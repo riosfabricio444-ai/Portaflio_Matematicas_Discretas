@@ -94,6 +94,17 @@ Son esquemas válidos que permiten extraer una conclusión lógica a partir de p
 
 # 📝 2. Ejercicios Resueltos
 
+# ✍️ APES GRUPALES:
+
+| 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
+| ------------ | --------------- | ---------------------------- |
+| **APE 1:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+| **APE 2:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+| **APE 3:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+| **APE 4:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+| **APE 5:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+
+
 ## 1. Traducción de lenguaje natural a simbólico
 
 https://github.com/riosfabricio444-ai/APE-1..git
