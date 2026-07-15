@@ -19,14 +19,14 @@
 | **APE 2:** | Fase 3 y 4 |  [Clic para ingresar](APE2.md)|
 | **APE 3:** | Fase 5 y 6|  |
 
-# AA:
+# AA ✍️:
 
 | **ACTIVIDAD** | **TRABAJO** | ACCESO |
 | :--- | :---| :--- |
 | **AA** | Grupal| [Clic para ingresar](AA.pdf)|
 
 
-## ACD :
+## ACD 📚:
 
 | **ACTIVIDADES** | **TRABAJO** | ACCESO |
 | :--- | :---| :--- |
