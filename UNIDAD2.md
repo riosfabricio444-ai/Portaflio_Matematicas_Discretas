@@ -26,7 +26,7 @@
 | ------------ | ---------- | --------------------------- |
 | **APE 1**    | Fase 1 y 2 | [📝 Ver actividad](APE1.md) |
 | **APE 2**    | Fase 3 y 4 | [📝 Ver actividad](APE2.md) |
-| **APE 3**    | Fase 5 y 6 | *Próximamente*              |
+| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad](APE3.I1.pdf) |
 
 ---
 
