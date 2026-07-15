@@ -182,7 +182,7 @@ La lógica es el pilar fundamental de la Ingeniería en Computación, ya que per
 
 <div align="center">
 
-### 📂 [Para regresar a la estructura de la unidad clic aquí](SEMESTRE.md)
+### 📂 [Para regresar a la estructura de la unidad clic aquí](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/SEMESTRE.md)
 
 </div>
 
