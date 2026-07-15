@@ -1,62 +1,139 @@
 <div align="center">
 
-# [UNIDAD 3](SEMESTRE.md)
+# 📚 [UNIDAD 3](SEMESTRE.md)
+
+### **Grafos y Árboles**
+
+*"Representando relaciones y estructuras jerárquicas en informática y matemáticas."*
+
+---
 
 </div>
 
-<p aling="justify">
-  
-## GRAFO:
+## 🔗 GRAFOS
 
-?Un grafo es una estructura matemática utilizada para representar elementos y las relaciones que existen entre ellos. Está formado por un conjunto de nodos o vértices, que representan los objetos, y un conjunto de aristas, que representan las conexiones entre dichos objetos. Los grafos permiten modelar situaciones de la vida real donde varios elementos interactúan entre sí, como redes sociales, rutas de transporte, conexiones de internet o relaciones entre personas.
-  
-La principal característica de un grafo es que un nodo puede conectarse con uno o varios nodos al mismo tiempo, sin necesidad de seguir una jerarquía específica. Además, las conexiones pueden tener una dirección determinada o ser bidireccionales, y también pueden poseer un valor numérico llamado peso, el cual puede representar distancia, tiempo, costo o cualquier otra medida importante para el problema que se desea resolver.
+<p align="justify">
 
-Los grafos son ampliamente utilizados en informática, matemáticas e ingeniería debido a su capacidad para representar sistemas complejos de manera sencilla. Por ejemplo, aplicaciones como Google Maps utilizan grafos para calcular rutas, las redes sociales utilizan grafos para representar amistades y seguidores, y las compañías de telecomunicaciones los utilizan para diseñar redes de comunicación eficientes.
+Un **grafo** es una estructura matemática utilizada para representar elementos y las relaciones que existen entre ellos. Está formado por un conjunto de **nodos o vértices**, que representan los objetos, y un conjunto de **aristas**, que representan las conexiones entre dichos objetos.
+
+Los grafos permiten modelar situaciones de la vida real donde varios elementos interactúan entre sí, como:
+
+* 🌐 Redes sociales
+* 🛣️ Rutas de transporte
+* 💻 Conexiones de internet
+* 👥 Relaciones entre personas
+
+Una de sus principales características es que un nodo puede conectarse con uno o varios nodos al mismo tiempo, sin necesidad de seguir una jerarquía específica.
+
+Además, las conexiones pueden:
+
+* ➡️ Tener una dirección determinada.
+* ↔️ Ser bidireccionales.
+* ⚖️ Poseer un peso que represente distancia, tiempo, costo o cualquier otra medida importante.
+
+Gracias a ello, los grafos son ampliamente utilizados en informática, matemáticas e ingeniería para representar sistemas complejos de manera sencilla y eficiente.
+
 </p>
 
-### Tipos de Grafos:
+---
 
-<img width="1536" height="1024" alt="Grafos" src="https://github.com/user-attachments/assets/45074876-a736-43f3-b4e1-52aec13cd431" />
-
-## ÁRBOL:
-Un árbol es un tipo especial de grafo que se utiliza para representar información organizada de forma jerárquica. Está compuesto por nodos conectados mediante ramas, comenzando desde un nodo principal llamado raíz, del cual se derivan todos los demás nodos del árbol. A diferencia de los grafos generales, los árboles no contienen ciclos, lo que significa que no es posible regresar al mismo nodo siguiendo las conexiones existentes.
-
-En un árbol, cada nodo puede tener uno o varios nodos descendientes llamados hijos, mientras que el nodo del cual dependen se denomina padre. Los nodos que no poseen hijos reciben el nombre de hojas. Esta organización jerárquica permite almacenar y buscar información de manera eficiente, razón por la cual los árboles son fundamentales en la informática y las ciencias de la computación.
-
-Los árboles se utilizan en numerosas aplicaciones, como la organización de carpetas en un sistema operativo, los árboles genealógicos, la estructura organizacional de una empresa y las bases de datos. Un caso muy importante es el Árbol Binario de Búsqueda (BST), el cual organiza los datos de tal manera que las búsquedas y consultas se realizan de forma mucho más rápida y eficiente.
-
-En resumen, mientras que los grafos representan relaciones generales entre elementos, los árboles representan relaciones jerárquicas donde existe un orden y una estructura claramente definida. Por esta razón, se considera que todo árbol es un grafo, pero no todo grafo es un árbol.
-
-### Tipos de árboles:
-<img width="1536" height="1024" alt="Arboles" src="https://github.com/user-attachments/assets/e6ae2846-2eb4-4fe4-b821-178b2c96d0e0" />
+### 📌 Tipos de Grafos
 
 <div align="center">
-  
-## ACTIVIDADES DE ESTA UNIDAD
+
+<img width="900" alt="Grafos" src="https://github.com/user-attachments/assets/45074876-a736-43f3-b4e1-52aec13cd431" />
 
 </div>
 
-## APES GRUPALES 👥:
+---
 
-| **ACTIVIDADES** | **FASES** | ACCESO |
-| :--- | :---| :--- |
-| **APE 1:** | Fase 1 y 2 |  [Clic para ingresar](APE1U3.pdf)|
-| **APE 1:** | Fase 3 y 5 |  [Clic para ingresar](APE2..pdf)|
+## 🌳 ÁRBOLES
 
+<p align="justify">
 
+Un **árbol** es un tipo especial de grafo utilizado para representar información de forma **jerárquica**.
 
-## AA ✍️:
+Está compuesto por nodos conectados mediante ramas, comenzando desde un nodo principal llamado **raíz**, del cual se derivan todos los demás nodos del árbol.
 
-| **ACTIVIDAD** | **TRABAJO** | ACCESO |
-| :--- | :---| :--- |
-| **AA 1:** | Grafos - Grupal | [Clic para ingresar](AAU3.pdf)|
-| **AA 2:** | Arboles - Grupal |  [Clic para ingresar](APE1.pdf)|
+A diferencia de los grafos generales:
 
-## ACD:
+* ❌ No contienen ciclos.
+* 🌱 Poseen una estructura jerárquica.
+* 🔍 Permiten búsquedas rápidas y eficientes.
 
-| **ACTIVIDAD** | **TEMA** | ACCESO |
-| :--- | :---| :--- |
-| **Diapositiva** | Grafos |  [Clic para ingresar](ACD1U3.pdf)|
-| **Diapositiva** | Árboles |  [Clic para ingresar](APE2..pdf)|
+Dentro de un árbol encontramos:
+
+| Elemento    | Descripción                        |
+| ----------- | ---------------------------------- |
+| 🌳 Raíz     | Nodo principal del árbol           |
+| 👨‍👦 Padre | Nodo del cual dependen otros nodos |
+| 👶 Hijo     | Nodo que depende de otro nodo      |
+| 🍃 Hoja     | Nodo que no posee hijos            |
+
+Los árboles son utilizados en:
+
+* 📁 Sistemas de archivos.
+* 👨‍👩‍👧‍👦 Árboles genealógicos.
+* 🏢 Organigramas empresariales.
+* 🗄️ Bases de datos.
+* 🔎 Árboles Binarios de Búsqueda (BST).
+
+En conclusión:
+
+> **Todo árbol es un grafo, pero no todo grafo es un árbol.**
+
+</p>
+
+---
+
+### 📌 Tipos de Árboles
+
+<div align="center">
+
+<img width="900" alt="Arboles" src="https://github.com/user-attachments/assets/e6ae2846-2eb4-4fe4-b821-178b2c96d0e0" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 📝 ACTIVIDADES DE LA UNIDAD
+
+</div>
+
+---
+
+## 👥 APES GRUPALES
+
+| 📂 Actividad | 📌 Fases   | 🔗 Acceso                        |
+| ------------ | ---------- | -------------------------------- |
+| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento](APE1U3.pdf) |
+| **APE 2**    | Fase 3 y 5 | [📄 Abrir documento](APE2U3.pdf) |
+
+---
+
+## ✍️ ACTIVIDADES AUTÓNOMAS (AA)
+
+| 📂 Actividad | 👨‍🎓 Trabajo    | 🔗 Acceso                       |
+| ------------ | ---------------- | ------------------------------- |
+| **AA 1**     | Grafos - Grupal  | [📄 Abrir documento](AAU3.pdf)  |
+| **AA 2**     | Árboles - Grupal | [📄 Abrir documento](AA2U3.pdf) |
+
+---
+
+## 📊 ACTIVIDADES ACD
+
+| 📂 Actividad    | 📚 Tema | 🔗 Acceso                        |
+| --------------- | ------- | -------------------------------- |
+| **Diapositiva** | Grafos  | [📄 Abrir documento](ACD1U3.pdf) |
+| **Diapositiva** | Árboles | [📄 Abrir documento](ACD2U3.pdf) |
+
+---
+
+<div align="center">
+
+### ⭐ Fin de la Unidad 3 ⭐
+
+</div>
 
