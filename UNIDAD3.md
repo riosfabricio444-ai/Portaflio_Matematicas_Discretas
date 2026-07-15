@@ -15,6 +15,8 @@ La principal característica de un grafo es que un nodo puede conectarse con uno
 Los grafos son ampliamente utilizados en informática, matemáticas e ingeniería debido a su capacidad para representar sistemas complejos de manera sencilla. Por ejemplo, aplicaciones como Google Maps utilizan grafos para calcular rutas, las redes sociales utilizan grafos para representar amistades y seguidores, y las compañías de telecomunicaciones los utilizan para diseñar redes de comunicación eficientes.
 </p>
 
+### Tipos de Grafos:
+
 <img width="847" height="572" alt="image" src="https://github.com/user-attachments/assets/ace142a0-74c6-453b-928e-7804c453d7ea" />
 
 ## ÁRBOL:
@@ -25,6 +27,10 @@ En un árbol, cada nodo puede tener uno o varios nodos descendientes llamados hi
 Los árboles se utilizan en numerosas aplicaciones, como la organización de carpetas en un sistema operativo, los árboles genealógicos, la estructura organizacional de una empresa y las bases de datos. Un caso muy importante es el Árbol Binario de Búsqueda (BST), el cual organiza los datos de tal manera que las búsquedas y consultas se realizan de forma mucho más rápida y eficiente.
 
 En resumen, mientras que los grafos representan relaciones generales entre elementos, los árboles representan relaciones jerárquicas donde existe un orden y una estructura claramente definida. Por esta razón, se considera que todo árbol es un grafo, pero no todo grafo es un árbol.
+
+### Tipos de árboles:
+<img width="848" height="590" alt="image" src="https://github.com/user-attachments/assets/b64e7c4b-25ac-4a9b-9cd4-7832af65b164" />
+
 
 ## APES GRUPALES 👥:
 
