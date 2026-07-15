@@ -1,3 +1,22 @@
 <div align="center">
 
 # [UNIDAD 3](SEMESTRE.md)
+
+</div>
+
+## APES GRUPALES 👥:
+
+| **ACTIVIDADES** | **FASES** | ACCESO |
+| :--- | :---| :--- |
+| **APE :** | Fase 1 y 2 |  [Clic para ingresar](APE1.pdf)|
+| **APE :** | Fase 3 y 5 |  [Clic para ingresar](APE2..pdf)|
+
+
+
+# AA ✍️:
+
+| **ACTIVIDAD** | **TRABAJO** | ACCESO |
+| :--- | :---| :--- |
+| **AA:** | Grafos - Grupal | [Clic para ingresar](AA.pdf)|
+| **AA:** | Arboles - Grupal |  [Clic para ingresar](APE1.pdf)|
+
