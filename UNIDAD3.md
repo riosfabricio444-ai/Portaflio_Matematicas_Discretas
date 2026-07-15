@@ -53,3 +53,10 @@ En resumen, mientras que los grafos representan relaciones generales entre eleme
 | **AA 1:** | Grafos - Grupal | [Clic para ingresar](AAU3.pdf)|
 | **AA 2:** | Arboles - Grupal |  [Clic para ingresar](APE1.pdf)|
 
+## ACD:
+
+| **ACTIVIDAD** | **TEMA** | ACCESO |
+| :--- | :---| :--- |
+| **Diapositiva** | Grafos |  [Clic para ingresar](APE1U3.pdf)|
+| **Diapositiva** | Árboles |  [Clic para ingresar](APE2..pdf)|
+
