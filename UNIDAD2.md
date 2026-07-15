@@ -27,7 +27,7 @@
 #### [CLIC PARA INGRESAR](APE1.md)
 
 
-### APE 2:Fse 3 y 4
+### APE 2:Fase 3 y 4
 
 #### [CLIC PARA INGRESAR](APE2.md)
 
