@@ -16,7 +16,7 @@
 | ------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
 | **APE 1**    | Fase 1 y 2 | [📄 Abrir documento](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/APE1.pdf) |
 | **APE 2**    | Fase 3 y 4 | [📄 Abrir documento](APE2..pdf)                                                                               |
-| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento](APE3U2.pdf)                                                                               |
+| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento](APE3.U2.pdf)                                                                               |
 
 ---
 
