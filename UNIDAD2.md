@@ -42,7 +42,7 @@
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento](ACDU2.pdf) |
+| **ACD**      | Grupal          | [📄 Abrir documento](ACD..pdf) |
 | **ACD**      | Individual      | [📝 Ver actividad](ACD.md)      |
 
 ---
