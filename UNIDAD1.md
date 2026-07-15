@@ -98,11 +98,11 @@ Son esquemas válidos que permiten extraer una conclusión lógica a partir de p
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
-| **APE 1:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
-| **APE 2:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
-| **APE 3:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
-| **APE 4:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
-| **APE 5:**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+| **APE 1:**       | Grupal          | [📄 Abrir documento](APE1.U1.pdf) |
+| **APE 2:**       | Grupal          | [📄 Abrir documento](APE2.U1.pdf) |
+| **APE 3:**       | Grupal          | [📄 Abrir documento](APE3.U1.pdf) |
+| **APE 4:**       | Grupal          | [📄 Abrir documento](APE4.U1.pdf) |
+| **APE 5:**       | Grupal          | [📄 Abrir documento](APE5.U1.pdf) |
 
 
 ## 1. Traducción de lenguaje natural a simbólico
