@@ -104,6 +104,11 @@ Son esquemas válidos que permiten extraer una conclusión lógica a partir de p
 | **APE 4:**       | Grupal          | [📄 Abrir documento](APE4.U1.pdf) |
 | **APE 5:**       | Grupal          | [📄 Abrir documento](APE5.U1.pdf) |
 
+# 📚 ACTIVIDADES DE CONTACTO DOCENTE (ACD)
+
+| 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
+| ------------ | --------------- | ------------------------------- |
+| **ACD**      | Grupal          | [📄 Abrir documento](ACD.U1.pdf) |
 
 ## 1. Traducción de lenguaje natural a simbólico
 
