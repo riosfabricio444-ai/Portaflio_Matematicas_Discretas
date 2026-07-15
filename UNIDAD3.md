@@ -17,7 +17,7 @@ Los grafos son ampliamente utilizados en informática, matemáticas e ingenierí
 
 ### Tipos de Grafos:
 
-<img width="847" height="572" alt="image" src="https://github.com/user-attachments/assets/ace142a0-74c6-453b-928e-7804c453d7ea" />
+<img width="1536" height="1024" alt="Grafos" src="https://github.com/user-attachments/assets/45074876-a736-43f3-b4e1-52aec13cd431" />
 
 ## ÁRBOL:
 Un árbol es un tipo especial de grafo que se utiliza para representar información organizada de forma jerárquica. Está compuesto por nodos conectados mediante ramas, comenzando desde un nodo principal llamado raíz, del cual se derivan todos los demás nodos del árbol. A diferencia de los grafos generales, los árboles no contienen ciclos, lo que significa que no es posible regresar al mismo nodo siguiendo las conexiones existentes.
@@ -29,8 +29,13 @@ Los árboles se utilizan en numerosas aplicaciones, como la organización de car
 En resumen, mientras que los grafos representan relaciones generales entre elementos, los árboles representan relaciones jerárquicas donde existe un orden y una estructura claramente definida. Por esta razón, se considera que todo árbol es un grafo, pero no todo grafo es un árbol.
 
 ### Tipos de árboles:
-<img width="848" height="590" alt="image" src="https://github.com/user-attachments/assets/b64e7c4b-25ac-4a9b-9cd4-7832af65b164" />
+<img width="1536" height="1024" alt="Arboles" src="https://github.com/user-attachments/assets/e6ae2846-2eb4-4fe4-b821-178b2c96d0e0" />
 
+<div align="center">
+  
+## ACTIVIDADES DE ESTA UNIDAD
+
+</div>
 
 ## APES GRUPALES 👥:
 
@@ -41,7 +46,7 @@ En resumen, mientras que los grafos representan relaciones generales entre eleme
 
 
 
-# AA ✍️:
+## AA ✍️:
 
 | **ACTIVIDAD** | **TRABAJO** | ACCESO |
 | :--- | :---| :--- |
