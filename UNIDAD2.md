@@ -1,37 +1,66 @@
 <div align="center">
 
-# [UNIDAD 2](SEMESTRE.md)
+# 📘 [UNIDAD 2](SEMESTRE.md)
+
+### **Portafolio de Matemáticas Discretas**
+
+*"Actividades, prácticas y recursos desarrollados durante la unidad."*
+
+---
+
 </div>
 
-## APES GRUPALES 👥:
+# 👥 APES GRUPALES
 
-| **ACTIVIDADES** | **FASES** | ACCESO |
-| :--- | :---| :--- |
-| **APE 1:** | Fase 1 y 2 |  [Clic para ingresar](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/APE1.pdf) |
-| **APE 2:** | Fase 3 y 4 |  [Clic para ingresar](APE2..pdf)|
-| **APE 3:** | Fase 5 y 6|  [Clic para ingresar](APE3.U2.pdf)|
+| 📂 Actividad | 📌 Fases   | 🔗 Acceso                                                                                                      |
+| ------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
+| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/APE1.pdf) |
+| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento](APE2U2.pdf)                                                                               |
+| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento](APE3U2.pdf)                                                                               |
 
-## APES INDIVIDUALES 👤:
+---
 
-| **ACTIVIDADES** | **FASES** | ACCESO |
-| :--- | :---| :--- |
-| **APE 1:** | Fase 1 y 2 |  [Clic para ingresar](APE1.md)|
-| **APE 2:** | Fase 3 y 4 |  [Clic para ingresar](APE2.md)|
-| **APE 3:** | Fase 5 y 6|  |
+# 👤 APES INDIVIDUALES
 
-# AA ✍️:
+| 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
+| ------------ | ---------- | --------------------------- |
+| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad](APE1.md) |
+| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad](APE2.md) |
+| **APE 3**    | Fase 5 y 6 | *Próximamente*              |
 
-| **ACTIVIDAD** | **TRABAJO** | ACCESO |
-| :--- | :---| :--- |
-| **AA** | Grupal| [Clic para ingresar](AA.pdf)|
+---
 
+# ✍️ ACTIVIDADES AUTÓNOMAS (AA)
 
-## ACD 📚:
+| 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
+| ------------ | --------------- | ---------------------------- |
+| **AA**       | Grupal          | [📄 Abrir documento](AA.pdf) |
 
-| **ACTIVIDADES** | **TRABAJO** | ACCESO |
-| :--- | :---| :--- |
-| **ACD** | Grupal |  [Clic para ingresar](ACD..pdf)|
-| **ACD:** | Individual|  [Clic para ingresar](ACD.md)|
+---
+
+# 📚 ACTIVIDADES DE CONTACTO DOCENTE (ACD)
+
+| 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
+| ------------ | --------------- | ------------------------------- |
+| **ACD**      | Grupal          | [📄 Abrir documento](ACDU2.pdf) |
+| **ACD**      | Individual      | [📝 Ver actividad](ACD.md)      |
+
+---
+
+<div align="center">
+
+## 📊 Resumen de la Unidad
+
+| Tipo de actividad    | Cantidad |
+| -------------------- | -------- |
+| 👥 APES Grupales     | 3        |
+| 👤 APES Individuales | 3        |
+| ✍️ AA                | 1        |
+| 📚 ACD               | 2        |
+
+### ⭐ Total de actividades de la Unidad 2: **9** ⭐
+
+</div>
 
 
 
