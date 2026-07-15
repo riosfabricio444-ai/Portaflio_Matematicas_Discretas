@@ -17,6 +17,6 @@
 
 | **ACTIVIDAD** | **TRABAJO** | ACCESO |
 | :--- | :---| :--- |
-| **AA:** | Grafos - Grupal | [Clic para ingresar](AAU3.pdf)|
-| **AA:** | Arboles - Grupal |  [Clic para ingresar](APE1.pdf)|
+| **AA 1:** | Grafos - Grupal | [Clic para ingresar](AAU3.pdf)|
+| **AA 2:** | Arboles - Grupal |  [Clic para ingresar](APE1.pdf)|
 
