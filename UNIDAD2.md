@@ -56,7 +56,7 @@
 | 👥 APES Grupales     | 3        |
 | 👤 APES Individuales | 3        |
 | ✍️ AA                | 1        |
-| 📚 ACD               | 2        |
+| 📚 ACD (Grupales e Individuales) | 2        |
 
 ### ⭐ Fin de la unidad 2 ⭐
 
