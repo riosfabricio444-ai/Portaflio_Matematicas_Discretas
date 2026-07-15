@@ -3,7 +3,7 @@
 # [UNIDAD 2](SEMESTRE.md)
 </div>
 
-## APES GRUPALES:
+## APES GRUPALES 👥:
 
 | **ACTIVIDADES** | **FASES** | ACCESO |
 | :--- | :---| :--- |
@@ -11,7 +11,7 @@
 | **APE 2:** | Fase 3 y 4 |  [Clic para ingresar](APE2..pdf)|
 | **APE 3:** | Fase 5 y 6|  [Clic para ingresar](APE3.U2.pdf)|
 
-## APES INDIVIDUALES:
+## APES INDIVIDUALES 👤:
 
 | **ACTIVIDADES** | **FASES** | ACCESO |
 | :--- | :---| :--- |
