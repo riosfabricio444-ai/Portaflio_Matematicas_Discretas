@@ -108,7 +108,7 @@ Son esquemas válidos que permiten extraer una conclusión lógica a partir de p
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento](ACD.U1.pdf) |
+| **ACD**      | Grupal          | [📄 Abrir documento](ACD1.U1.pdf) |
 
 ## 1. Traducción de lenguaje natural a simbólico
 
