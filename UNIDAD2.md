@@ -7,7 +7,7 @@
 
 | **ACTIVIDADES** | **FASES** | ACCESO |
 | :--- | :---| :--- |
-| **APE 1:** | Fase 1 y 2 |  [Clic para ingresar](APE1.pdf)|
+| **APE 1:** | Fase 1 y 2 |  [Clic para ingresar](APE1.pdf) |
 | **APE 2:** | Fase 3 y 4 |  [Clic para ingresar](APE2..pdf)|
 | **APE 3:** | Fase 5 y 6|  [Clic para ingresar](APE3.U2.pdf)|
 
