@@ -58,7 +58,7 @@
 | ✍️ AA                | 1        |
 | 📚 ACD               | 2        |
 
-### ⭐ Total de actividades de la Unidad 2: **9** ⭐
+### ⭐ Fin de la unidad 2 ⭐
 
 </div>
 
