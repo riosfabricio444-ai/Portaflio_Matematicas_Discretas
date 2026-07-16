@@ -129,7 +129,7 @@ En conclusión:
 | **Diapositiva 1** | Grafos  | [📄 Abrir documento](ACD1U3.pdf) |
 | **Video 1** | Grafos  | [📄 Abrir documento](Video1.pdf) |
 | **Diapositiva 2** | Árboles | [📄 Abrir documento](ACD2.U3.pdf) |
-| **Video 2** | Árboles | [📄 Abrir documento](Video.pdf) |
+| **Video 2** | Árboles | [📄 Abrir documento](ACD2..U3.pdf) |
 
 
 ---
