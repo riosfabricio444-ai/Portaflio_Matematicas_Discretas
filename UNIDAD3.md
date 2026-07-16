@@ -126,8 +126,11 @@ En conclusión:
 
 | 📂 Actividad    | 📚 Tema | 🔗 Acceso                        |
 | --------------- | ------- | -------------------------------- |
-| **Diapositiva** | Grafos  | [📄 Abrir documento](ACD1U3.pdf) |
-| **Diapositiva** | Árboles | [📄 Abrir documento](ACD2.U3.pdf) |
+| **Diapositiva 1** | Grafos  | [📄 Abrir documento](ACD1U3.pdf) |
+| **Video 1** | Grafos  | [📄 Abrir documento](Video1.pdf) |
+| **Diapositiva 2** | Árboles | [📄 Abrir documento](ACD2.U3.pdf) |
+| **Video 2** | Árboles | [📄 Abrir documento](Video.pdf) |
+
 
 ---
 
